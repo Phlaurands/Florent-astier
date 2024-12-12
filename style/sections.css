@@ -1,0 +1,10 @@
+/* style/sections.css */
+section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  #accueil {
+    margin-top: 80px; /* Pour éviter le masquage par le header */
+  }
+  
